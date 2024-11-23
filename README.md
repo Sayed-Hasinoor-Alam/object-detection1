@@ -42,9 +42,6 @@ The following objects can be detected by the application:
 
 ## 🌐 Live Demo
 
-[Click here to access the live app](#)  
-(*Replace `#` with the URL of your deployed app.*)
-
 ---
 
 ## 🖼️ Screenshots
@@ -59,18 +56,18 @@ The app's homepage provides a clean and intuitive interface to upload images and
 ### **2. Object Detection Results**
 Once an image is uploaded, the app highlights detected objects with bounding boxes and labels.
 
-![Detection Results](assets/Capture2.png)
+![Detection Results](assets/Capture2.PNG)
 
 ---
 
 ### **3. Example Output**
 Here’s an example of the application identifying  objects in an image:
 
-![Example Output](assets/Capture3.png)
+![Example Output](assets/Capture3.PNG)
 
 ### **4. Example Output**
 About Section
-![Example Output](assets/Capture4.png)
+![About Section](assets/Capture4.PNG)
 
 
 ---
