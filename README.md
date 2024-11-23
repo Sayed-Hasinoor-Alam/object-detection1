@@ -52,7 +52,7 @@ The following objects can be detected by the application:
 ### **1. Home Page**
 The app's homepage provides a clean and intuitive interface to upload images and view results.
 
-![Home Page](assets/Capture1.png)
+![Home Page](assets/Capture1.PNG)
 
 ---
 
