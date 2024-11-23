@@ -86,7 +86,7 @@ Follow these steps to set up and run the app on your local machine.
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 
-### **3. Install Dependencies** 
+### **3. Installation Command**
 
 pip install -r requirements.txt
 
