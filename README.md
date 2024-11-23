@@ -86,12 +86,10 @@ Follow these steps to set up and run the app on your local machine.
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 
-##
-
-### **3. Installation**
+**3. Installation **
 pip install -r requirements.txt
 
-### **4. Run**
+ **4. Run**
 streamlit run app.py
 
 
